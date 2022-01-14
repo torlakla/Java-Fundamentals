@@ -1,6 +1,2 @@
 # Java-Fundamentals
-Exercises 
-Data types and variables.
-Arrays
-etc
-new edits lets go
+Just some exercises I have worked on. 
